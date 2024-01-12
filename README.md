@@ -5,3 +5,5 @@ model.pth is the final model weights file from the training process written in t
 Download 'syminiprojectinterface.py' and save it in a folder 
 and use the command 'streamlit run syminiprojectinterface.py' pointing to the saved file directory to open the interface, 
 using anaconda prompt or similar.
+
+Make sure streamlit library is installed
